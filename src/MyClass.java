@@ -26,6 +26,7 @@ public class MyClass {
     //Techpro branch, version t3
     public String string10 = "Hangi string oldugunun hesabını yapamadım";
 
-
+    //Techpro branch, version t5
+    public String string10 = "Affet beni aksam ustu";
 
 }
