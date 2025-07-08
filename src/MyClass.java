@@ -30,12 +30,12 @@ public class MyClass {
     public String string10 = "Affet beni aksam ustu";
 
 //Conflict,t6
-    public String string11= "Bu akşam olurum"
+    public String string11= "Bu akşam olurum";
 
 
 
 
     //Conflict,v7
-    public String string12= "Eski köprünün altında"
+    public String string12= "Eski köprünün altında";
 
 }
