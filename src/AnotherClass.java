@@ -2,6 +2,10 @@ public class AnotherClass {
     //Techpro branch,version t7
     public String string1 = "Biri sen, biri ben, iki damla yas aktı gözlerimden";
 
+  //Remote version r1
+  public String string2 = "Bir omur yetmez ki";
+
+
     //Techpro branch, t8
-    public String string2 = "Parıldayıp duran insanlara bak";
+    public String string3 = "Parıldayıp duran insanlara bak";
 }
